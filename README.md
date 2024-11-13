@@ -1,5 +1,9 @@
 # fs-woodenboxes
 
+[!NOTE]
+If you downloading this please leave a star! 
+Thank you :)
+
 # 3 props (box for scale)
 ![image](https://github.com/user-attachments/assets/69821b05-7bc8-4610-8afe-f90706605550)
 
